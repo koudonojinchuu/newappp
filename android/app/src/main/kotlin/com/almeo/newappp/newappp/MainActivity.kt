@@ -1,4 +1,4 @@
-package com.almeo.newappp.newappp
+package com.almeo.newappp
 
 import io.flutter.embedding.android.FlutterActivity
 

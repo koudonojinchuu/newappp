@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.almeo.newappp.newappp">
+    package="com.almeo.newappp">
    <application
         android:label="newappp"
         android:name="${applicationName}"
